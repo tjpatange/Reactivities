@@ -4,3 +4,4 @@ obj
 .DS_Store
 appettings.json
 *.db
+package-lock.json
